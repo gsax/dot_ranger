@@ -1,1 +1,3 @@
-# dot_ranger
+# ranger dotfiles
+
+My settings for ranger.
